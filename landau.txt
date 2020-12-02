@@ -1,1 +1,2 @@
 lan dau push len git hub
+Nang cap Git Lab
